@@ -35,5 +35,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Monier",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier#readme",
+  "bugs": {
+    "url": "https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier.git"
+  }
 }
