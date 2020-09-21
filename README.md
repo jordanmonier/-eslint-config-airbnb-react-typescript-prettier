@@ -34,3 +34,4 @@ npm info "eslint-config-airbnb@latest" peerDependencies
 
 4. Don't forget to make your `.prettier` (you can use the one we provide in the repo)
 5. Don't forget to also make your own `tsconfig.json` (you can also use the one we provide in the repo)
+6. Enjoy using our configuration !
