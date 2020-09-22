@@ -19,7 +19,7 @@ npx install-peerdeps --dev eslint-config-airbnb-react-typescript-prettier
 If using **npm <5**
 
 ```
-npm info "eslint-config-airbnb@latest" peerDependencies
+npm info "eslint-config-airbnb-react-typescript-prettier@latest" peerDependencies
 ```
 
 > And then you need to install each peer dependency manually
@@ -32,6 +32,6 @@ npm info "eslint-config-airbnb@latest" peerDependencies
 }
 ```
 
-4. Don't forget to make your `.prettier` (you can use the one we provide in the repo)
+4. Don't forget to make your own `.prettier` (you can use the one we provide in the repo)
 5. Don't forget to also make your own `tsconfig.json` (you can also use the one we provide in the repo)
 6. Enjoy using our configuration !
