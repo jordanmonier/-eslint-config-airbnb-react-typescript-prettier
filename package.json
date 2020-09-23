@@ -1,9 +1,9 @@
 {
   "name": "eslint-config-airbnb-react-typescript-prettier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint Configured with Airbnb, React, TypeScript & Prettier",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.1.1",
     "@typescript-eslint/parser": "^4.1.1",
     "eslint": "^7.9.0",
@@ -36,12 +36,12 @@
   },
   "author": "Jordan Monier",
   "license": "ISC",
-  "homepage": "https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier#readme",
+  "homepage": "https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier#readme",
   "bugs": {
-    "url": "https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier/issues"
+    "url": "https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier.git"
+    "url": "https://github.com/jordanmonier/eslint-config-airbnb-react-typescript-prettier.git"
   }
 }
