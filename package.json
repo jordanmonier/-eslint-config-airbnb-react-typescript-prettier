@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airbnb-react-typescript-prettier",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ESLint Configured with Airbnb, React, TypeScript & Prettier",
   "main": "index.js",
   "devDependencies": {
