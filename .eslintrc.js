@@ -13,7 +13,7 @@ module.exports = {
     'plugin:prettier/recommended',
     'prettier/react',
   ],
-  plugins: ['react', 'jsx-a11y', '@typescript-eslint'],
+  plugins: ['prettier', 'react', 'jsx-a11y', '@typescript-eslint'],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     project: './tsconfig.json',
